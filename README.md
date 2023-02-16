@@ -21,6 +21,6 @@ c) Como e2 > -dy = -4, atualizamos o erro err -= dy = -1 e adicionamos o increme
 
 d) Como e2 < dx = 7, atualizamos o erro err += dx = 5 e adicionamos o incremento de y, que é 1, ao y atual, y0 += 1. O ponto atual é agora (2, 2).
 
-g) Desenhamos o pixel com as coordenadas (2, 2).
+e) Desenhamos o pixel com as coordenadas (2, 2).
 
 Repetimos esse processo até que x0 = xy e y0 = y1
